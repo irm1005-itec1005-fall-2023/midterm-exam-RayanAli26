@@ -43,6 +43,7 @@ body {
 
 main {
   display: flex;
+  flex-direction: column;
   background-color: azure;
   padding: 1rem;
   justify-content: center;
@@ -50,7 +51,6 @@ main {
   border-radius: 0rem 0rem 1rem 1rem;
 }
 .coffee-pic {
-  display: flex;
   width: 200rem;
   border-radius: 1rem 1rem 0rem 0rem;
   align-items: center;
