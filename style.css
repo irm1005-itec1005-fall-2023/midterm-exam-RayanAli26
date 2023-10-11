@@ -45,7 +45,7 @@ main {
   display: flex;
   flex-direction: column;
   background-color: azure;
-  padding: 1rem;
+  padding: 10rem;
   justify-content: center;
   align-items: center;
   border-radius: 0rem 0rem 1rem 1rem;
